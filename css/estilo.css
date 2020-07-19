@@ -1,0 +1,12 @@
+.social img{
+    background: blue;
+}
+.social img:hover {transform: scale(0.9);}
+
+.grid img {
+  border: 3px solid white;
+  margin: 66px
+
+}
+
+.grid img:hover {transform: scale(1.1);}
